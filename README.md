@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sugan S</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sugansvs&label=Profile%20views&color=0e75b6&style=flat" alt="sugansvs" /> </p>
+<h1 align="center">Hi 👋, I'm Sugan</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sugansvs&label=Profile%20views&color=0e75b6&style=flat" alt="sugansvs" /> </p<
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sugansvs" alt="sugansvs" /></a> </p>
 
